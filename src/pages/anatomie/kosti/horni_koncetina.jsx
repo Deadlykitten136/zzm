@@ -1,6 +1,6 @@
 import PageLayout from "../../../components/PageLayout.jsx";
 import { useMemo, useState } from "react";
-import imgScapula from "../../../assets/anatomie/lopatka.png";
+import imgScapula from "../../../assets/anatomie/Lopatka.png";
 import imgHumerus from "../../../assets/anatomie/humerus.png";
 import imgElbow from "../../../assets/anatomie/loket.jpg";
 import imgRU from "../../../assets/anatomie/radius_a_ulna.jpg";
