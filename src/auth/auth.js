@@ -4,7 +4,7 @@ const TOKEN_KEY = "zzm:auth:token";
 const NAME_KEY = "zzm:auth:name";
 
 // ✅ Změň si kód kdykoli tady (a pošli spolužákům)
-export const CLASS_CODE = "Qi kleslo";
+export const CLASS_CODE = "Qikleslo";
 
 export function getToken() {
   return localStorage.getItem(TOKEN_KEY);
