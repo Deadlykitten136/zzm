@@ -1,0 +1,1309 @@
+[
+  {
+    "id": "kosti-001",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Co je kostra (skelet)?",
+    "options": [
+      "Soubor svalů a šlach",
+      "Soubor kostí a jejich spojení",
+      "Soubor orgánů hrudníku",
+      "Soubor nervů a cév"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "kosti-002",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Přibližný počet kostí v lidském těle (podle vašich skript) je:",
+    "options": ["106", "180", "233", "400"],
+    "answer": 2
+  },
+  {
+    "id": "kosti-003",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Co patří do osové (axiální) kostry?",
+    "options": [
+      "Horní a dolní končetiny",
+      "Lebka, páteř, hrudník",
+      "Pouze pánev",
+      "Pouze kosti ruky"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "kosti-004",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Kostra končetin (apendikulární skelet) zahrnuje:",
+    "options": [
+      "Lebku a páteř",
+      "Hrudník a páteř",
+      "Končetiny včetně pletenců",
+      "Pouze prsty"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "kosti-005",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Základní mechanická funkce kostí je:",
+    "options": [
+      "Tvorba hormonů",
+      "Oporna, pohybová, ochranná",
+      "Pouze krvetvorba",
+      "Pouze zásoba energie"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "kosti-006",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Krvetvorba probíhá primárně v:",
+    "options": ["Žluté kostní dřeni", "Červené kostní dřeni", "Okostici", "Kompaktě"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-007",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Metabolická funkce kostí je nejvíce spojena s:",
+    "options": [
+      "Zásobou vápníku a fosfátů",
+      "Tvorbou inzulinu",
+      "Tvorbou žluči",
+      "Zásobou kyslíku"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "kosti-008",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Homeostáza ve vztahu ke kosti nejlépe znamená:",
+    "options": [
+      "Stálou teplotu kostí",
+      "Udržování stabilní hladiny minerálů v krvi (např. Ca/P)",
+      "Zvětšování objemu kostí ve stáří",
+      "Zánik kostní dřeně"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "kosti-009",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Zásoba energie v kosti souvisí hlavně s:",
+    "options": ["Červenou dření", "Žlutou dření (tuk)", "Okosticí", "Spongiózou"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-010",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Dlouhá kost má typicky:",
+    "options": [
+      "Pouze epifýzu",
+      "Diafýzu a epifýzy",
+      "Pouze spongiózu",
+      "Pouze chrupavku"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "kosti-011",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Diafýza je:",
+    "options": ["Konec kosti", "Tělo dlouhé kosti", "Kloubní jamka", "Chrupavka"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-012",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Epifýza je:",
+    "options": ["Konec dlouhé kosti", "Střední dutina kosti", "Okostice", "Žlutá dřeň"],
+    "answer": 0
+  },
+  {
+    "id": "kosti-013",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Metafýza je:",
+    "options": [
+      "Přechod mezi epifýzou a diafýzou",
+      "Výběžek na lopatce",
+      "Kloubní chrupavka",
+      "Dutina v lebce"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "kosti-014",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Kompakta je:",
+    "options": ["Trámčitá kostní hmota", "Hutná kostní hmota", "Kostní dřeň", "Okostice"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-015",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Spongióza je:",
+    "options": ["Hutná kostní hmota", "Trámčitá kostní hmota", "Kloubní pouzdro", "Šlacha"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-016",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Okostice (periost) je:",
+    "options": [
+      "Vazivový obal kosti",
+      "Chrupavka v kloubu",
+      "Dřeňová dutina",
+      "Nervová tkáň"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "kosti-017",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Endost je:",
+    "options": [
+      "Vnější obal kosti",
+      "Vnitřní výstelka kosti",
+      "Svalový úpon",
+      "Kloubní jamka"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "kosti-018",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "U dětí je červená kostní dřeň:",
+    "options": [
+      "Jen v plochých kostech",
+      "Jen v diafýzách dlouhých kostí",
+      "Prakticky ve všech kostech",
+      "Vůbec se nevyskytuje"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "kosti-019",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "U dospělých je červená kostní dřeň typicky:",
+    "options": [
+      "Jen v lebce",
+      "V plochých kostech a na koncích dlouhých kostí",
+      "Pouze v prstech",
+      "Pouze v diafýzách"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "kosti-020",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Žlutá kostní dřeň je typicky:",
+    "options": [
+      "Krvetvorná",
+      "Tuková (zásoba energie)",
+      "Nervová",
+      "Chrupavčitá"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "kosti-021",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Šedá kostní dřeň ve stáří souvisí nejvíce s:",
+    "options": [
+      "Zvýšením krvetvorby",
+      "Degenerativními změnami a úbytkem funkční dřeně",
+      "Růstem svalů",
+      "Změnou kloubní chrupavky"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "kosti-022",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Osifikace je:",
+    "options": [
+      "Odbourávání kosti",
+      "Tvorba kosti",
+      "Zánět okostice",
+      "Pohyb v kloubu"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "kosti-023",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Desmální (intramembranózní) osifikace znamená:",
+    "options": [
+      "Kost vzniká z chrupavky",
+      "Kost vzniká přímo z vaziva (mezenchymu)",
+      "Kost vzniká jen po úrazu",
+      "Kost vzniká pouze ve stáří"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "kosti-024",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Chondrální (endochondrální) osifikace znamená:",
+    "options": [
+      "Kost vzniká přímo z vaziva",
+      "Kost vzniká náhradou chrupavčitého modelu",
+      "Kost vzniká jen z okostice",
+      "Kost vzniká bez buněk"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "kosti-025",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Osteoblast je:",
+    "options": [
+      "Buňka odbourávající kost",
+      "Kostitvorná buňka",
+      "Zralá kostní buňka udržující tkáň",
+      "Krevní buňka"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "kosti-026",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Osteoklast je:",
+    "options": [
+      "Kostitvorná buňka",
+      "Buňka odbourávající kost",
+      "Svalová buňka",
+      "Chrupavčitá buňka"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "kosti-027",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Osteocyt je:",
+    "options": [
+      "Zralá kostní buňka (udržuje kost)",
+      "Kostitvorná buňka",
+      "Buňka krvetvorby",
+      "Buňka šlachy"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "kosti-028",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Remodelace kosti znamená:",
+    "options": [
+      "Kost se nemění po pubertě",
+      "Celoživotní přestavba (odbourávání + novotvorba)",
+      "Pouze růst do délky",
+      "Pouze zánik spongiózy"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "kosti-029",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Somatotropin je:",
+    "options": [
+      "Růstový hormon podporující růst tkání včetně kostí",
+      "Hormon štítné žlázy",
+      "Hormon kůry nadledvin",
+      "Minerál v kostech"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "kosti-030",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Správné pořadí fází hojení fraktury je:",
+    "options": [
+      "Tvrdý svalek → hematom → remodelace → měkký svalek",
+      "Hematom → zánět → měkký svalek → tvrdý svalek → remodelace",
+      "Zánět → remodelace → hematom → tvrdý svalek",
+      "Hematom → tvrdý svalek → zánět → remodelace"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "kosti-031",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Proč je při hojení fraktury důležitá stabilita úlomků?",
+    "options": [
+      "Protože zvyšuje teplotu kosti",
+      "Protože snižuje tvorbu krve",
+      "Protože umožní vytvořit pevný kostní most (kalus)",
+      "Protože zastaví remodelaci"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "kosti-032",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Dělení kostí podle tvaru – která možnost je správně?",
+    "options": [
+      "Dlouhé, krátké, ploché, nepravidelné, pneumatické, sezamské",
+      "Jen dlouhé a krátké",
+      "Jen ploché a nepravidelné",
+      "Jen pneumatické a sezamské"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "kosti-033",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Pneumatické kosti jsou typické tím, že:",
+    "options": [
+      "Obsahují vzdušné dutiny",
+      "Vznikají v šlaše",
+      "Mají vždy tvar krychle",
+      "Neobsahují žádnou dřeň"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "kosti-034",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Sezamské kosti:",
+    "options": [
+      "Vznikají v šlaše a zvyšují účinnost svalu",
+      "Jsou vždy v lebce",
+      "Jsou vždy pneumatické",
+      "Nahrazují klouby"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "kosti-035",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Čéška (patella) je příklad:",
+    "options": ["Krátké kosti", "Ploché kosti", "Sezamské kosti", "Pneumatické kosti"],
+    "answer": 2
+  },
+  {
+    "id": "kosti-036",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Hrudní kost se nazývá:",
+    "options": ["Clavicula", "Sternum", "Scapula", "Femur"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-037",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Rukojeť hrudní kosti je:",
+    "options": ["Corpus sterni", "Manubrium", "Mečík", "Incisura jugularis"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-038",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Incisura jugularis je:",
+    "options": [
+      "Dolní hrot mečíku",
+      "Jamka mezi klíčními kostmi na horním okraji sterna",
+      "Kloubní jamka pro hlavici humeru",
+      "Výběžek na lopatce"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "kosti-039",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Mečík (processus xiphoideus) je:",
+    "options": [
+      "Horní část sterna",
+      "Střední část sterna",
+      "Dolní část sterna",
+      "Kostní výběžek na humeru"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "kosti-040",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Žebra se latinsky řeknou:",
+    "options": ["Vertebrae", "Costae", "Scapulae", "Phalanges"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-041",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Pravá žebra jsou:",
+    "options": ["1–7", "8–10", "11–12", "13–20"],
+    "answer": 0
+  },
+  {
+    "id": "kosti-042",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Nepravá žebra jsou:",
+    "options": ["1–7", "8–10", "11–12", "2–6"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-043",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Volná žebra jsou:",
+    "options": ["1–7", "8–10", "11–12", "3–5"],
+    "answer": 2
+  },
+  {
+    "id": "kosti-044",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Kolik je pravých žeber?",
+    "options": ["5", "7", "10", "12"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-045",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Kolik je nepravých žeber?",
+    "options": ["2", "3", "4", "5"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-046",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Kolik je volných žeber?",
+    "options": ["1", "2", "3", "4"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-047",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Podle tvých poznámek z TČM: od konce sterna k pupíku je:",
+    "options": ["4 cuny", "6 cunů", "8 cunů", "10 cunů"],
+    "answer": 2
+  },
+  {
+    "id": "kosti-048",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Páteřní obratel se latinsky řekne:",
+    "options": ["Costa", "Vertebra", "Femur", "Patella"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-049",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Základní části obratle jsou:",
+    "options": [
+      "Hlavice a jamka",
+      "Tělo, oblouk, výběžky",
+      "Pouze trnový výběžek",
+      "Pouze příčné výběžky"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "kosti-050",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Krční páteř se značí:",
+    "options": ["C1–C7", "Th1–Th12", "L1–L5", "S1–S5"],
+    "answer": 0
+  },
+  {
+    "id": "kosti-051",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Hrudní páteř se značí:",
+    "options": ["C1–C7", "Th1–Th12", "L1–L5", "Co1–Co4"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-052",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Bederní páteř se značí:",
+    "options": ["C1–C7", "Th1–Th12", "L1–L5", "S1–S5"],
+    "answer": 2
+  },
+  {
+    "id": "kosti-053",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Fyziologická křivka krční páteře je:",
+    "options": ["Kyfóza", "Lordóza", "Skolióza", "Rotoskolióza"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-054",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Fyziologická křivka hrudní páteře je:",
+    "options": ["Kyfóza", "Lordóza", "Skolióza", "Hyperlordóza"],
+    "answer": 0
+  },
+  {
+    "id": "kosti-055",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Ve frontální rovině je zdravá páteř:",
+    "options": ["V ose těla", "Vždy vychýlená doprava", "Vždy vychýlená doleva", "S výraznou kyfózou"],
+    "answer": 0
+  },
+  {
+    "id": "kosti-056",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Skolióza je:",
+    "options": ["Zvýrazněná lordóza", "Vychýlení páteře do strany", "Vymizení kyfózy", "Srůst obratlů"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-057",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Rotoskolióza znamená:",
+    "options": [
+      "Skolióza bez rotace",
+      "Skolióza s rotací obratlů",
+      "Jen rotace krční páteře",
+      "Jen hyperkyfóza"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "kosti-058",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "C1 (atlas) je česky:",
+    "options": ["Čepovec", "Nosič", "Kostrč", "Křížová kost"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-059",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "C2 (axis) je česky:",
+    "options": ["Nosič", "Čepovec", "Hrudní obratel", "Bederní obratel"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-060",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Vertebra prominens je nejčastěji:",
+    "options": ["C5", "C6", "C7", "Th1"],
+    "answer": 2
+  },
+  {
+    "id": "kosti-061",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Lopatka se latinsky řekne:",
+    "options": ["Clavicula", "Scapula", "Humerus", "Ulna"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-062",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Nadpažek lopatky (hmatný v rameni) je:",
+    "options": ["Olecranon", "Akromion", "Acetabulum", "Trochanter"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-063",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Klíční kost se latinsky řekne:",
+    "options": ["Clavicula", "Scapula", "Tibia", "Fibula"],
+    "answer": 0
+  },
+  {
+    "id": "kosti-064",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Která kost se při pronaci/supinaci otáčí kolem druhé?",
+    "options": ["Ulna kolem radia", "Radius kolem ulny", "Humerus kolem ulny", "Clavicula kolem scapuly"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-065",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Okovec (olecranon) je:",
+    "options": [
+      "Výběžek na scapule",
+      "Výběžek ulny tvořící špičku lokte",
+      "Kotník tibie",
+      "Kůstka zápěstní"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "kosti-066",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Epikondyl je nejlépe popsán jako:",
+    "options": [
+      "Kloubní jamka",
+      "Úponový hrbol na distálním konci kosti",
+      "Chrupavka v kloubu",
+      "Šlacha"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "kosti-067",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Tenisový loket je typicky spojován s:",
+    "options": ["Epikondylus medialis", "Epikondylus lateralis", "Olecranon", "Akromion"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-068",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Oštěpový loket je typicky spojován s:",
+    "options": ["Epikondylus medialis", "Epikondylus lateralis", "Patella", "Trochanter"],
+    "answer": 0
+  },
+  {
+    "id": "kosti-069",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Kolik je kostí zápěstních (ossa carpi)?",
+    "options": ["6", "7", "8", "10"],
+    "answer": 2
+  },
+  {
+    "id": "kosti-070",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Kolik je kostí záprstních (ossa metacarpi)?",
+    "options": ["4", "5", "6", "8"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-071",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Kolik článků má palec ruky?",
+    "options": ["1", "2", "3", "4"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-072",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Kolik článků mají ostatní prsty ruky (II–V)?",
+    "options": ["2", "3", "4", "5"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-073",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Karpální tunel je nejvíce spojen s:",
+    "options": [
+      "Útlakem nervu v oblasti zápěstí na dlaňové straně",
+      "Útlakem nervu v oblasti krku",
+      "Poraněním patelly",
+      "Přetížením hlezna"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "kosti-074",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Kost pánevní se latinsky řekne:",
+    "options": ["Os coxae", "Os sacrum", "Os femoris", "Os manus"],
+    "answer": 0
+  },
+  {
+    "id": "kosti-075",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Acetabulum je:",
+    "options": ["Jamka kyčelního kloubu", "Kotník", "Jamka ramenního kloubu", "Výběžek paty"],
+    "answer": 0
+  },
+  {
+    "id": "kosti-076",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Stehenní kost se latinsky řekne:",
+    "options": ["Femur", "Tibia", "Fibula", "Patella"],
+    "answer": 0
+  },
+  {
+    "id": "kosti-077",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Čéška se latinsky řekne:",
+    "options": ["Patella", "Talus", "Calcaneus", "Scapula"],
+    "answer": 0
+  },
+  {
+    "id": "kosti-078",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Kost holenní je:",
+    "options": ["Tibia", "Fibula", "Femur", "Ulna"],
+    "answer": 0
+  },
+  {
+    "id": "kosti-079",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Kost lýtková je:",
+    "options": ["Tibia", "Fibula", "Radius", "Humerus"],
+    "answer": 1
+  },
+  {
+    "id": "kosti-080",
+    "tag": "kosti",
+    "type": "mcq",
+    "prompt": "Kost patní (úpon Achillovy šlachy) je:",
+    "options": ["Talus", "Naviculare", "Calcaneus", "Cuboid"],
+    "answer": 2
+  },
+  
+  {
+    "id": "zaklady-001",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Anatomická poloha člověka znamená, že:",
+    "options": [
+      "Dlaně směřují dozadu",
+      "Palce rukou směřují mediálně",
+      "Dlaně směřují dopředu",
+      "Hlava je v předklonu"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "zaklady-002",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Směr kraniální znamená:",
+    "options": ["Dolní", "K hlavě", "K pánvi", "Boční"],
+    "answer": 1
+  },
+  {
+    "id": "zaklady-003",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Směr kaudální znamená:",
+    "options": ["K hlavě", "Ke středu těla", "K pánvi", "K povrchu"],
+    "answer": 2
+  },
+  {
+    "id": "zaklady-004",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Termín mediální znamená:",
+    "options": [
+      "Směrem od střední roviny",
+      "Směrem ke střední rovině",
+      "Směrem dolů",
+      "Směrem k povrchu"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "zaklady-005",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Laterální znamená:",
+    "options": [
+      "Směrem ke středu",
+      "Směrem od středu",
+      "Směrem nahoru",
+      "Směrem dolů"
+    ],
+    "answer": 1
+  },
+
+  {
+    "id": "zaklady-006",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Abdukce znamená pohyb:",
+    "options": [
+      "K ose těla",
+      "Od osy těla",
+      "Vpřed",
+      "Vzad"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "zaklady-007",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Addukce znamená pohyb:",
+    "options": [
+      "Od osy těla",
+      "K ose těla",
+      "Nahoru",
+      "Dolů"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "zaklady-008",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Palmární flexe zápěstí znamená pohyb:",
+    "options": [
+      "Směrem k hřbetu ruky",
+      "Směrem do dlaně",
+      "Do strany",
+      "Rotaci"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "zaklady-009",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Lateroflexe je:",
+    "options": [
+      "Rotace",
+      "Předklon",
+      "Úklon do strany",
+      "Záklon"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "zaklady-010",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Pronace předloktí znamená:",
+    "options": [
+      "Dlaň nahoru",
+      "Dlaň dolů",
+      "Flexi lokte",
+      "Extenzi lokte"
+    ],
+    "answer": 1
+  },
+
+  {
+    "id": "zaklady-011",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Základní stavební jednotkou těla je:",
+    "options": ["Tkán", "Buňka", "Orgán", "Soustava"],
+    "answer": 1
+  },
+  {
+    "id": "zaklady-012",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Buněčné jádro obsahuje:",
+    "options": ["Energii", "Bílkoviny", "Genetickou informaci", "Ribozomy"],
+    "answer": 2
+  },
+  {
+    "id": "zaklady-013",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Mitochondrie jsou zodpovědné hlavně za:",
+    "options": ["Tvorbu bílkovin", "Buněčné dělení", "Tvorbu energie", "Transport látek"],
+    "answer": 2
+  },
+  {
+    "id": "zaklady-014",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Ribozomy slouží k:",
+    "options": ["Tvorbě lipidů", "Tvorbě bílkovin", "Buněčnému dýchání", "Transportu iontů"],
+    "answer": 1
+  },
+  {
+    "id": "zaklady-015",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Buněčná membrána:",
+    "options": [
+      "Odděluje buňku od okolí",
+      "Vytváří energii",
+      "Řídí buněčné dělení",
+      "Obsahuje DNA"
+    ],
+    "answer": 0
+  },
+
+  {
+    "id": "zaklady-016",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Tkáně vznikají:",
+    "options": [
+      "Spojením buněk stejného typu",
+      "Spojením různých orgánů",
+      "Spojením kostí",
+      "Z krve"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "zaklady-017",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Epitelová tkáň má hlavní funkci:",
+    "options": [
+      "Pohyb",
+      "Krytí a výstelku",
+      "Vedení vzruchů",
+      "Opěru"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "zaklady-018",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Svalová tkáň slouží především k:",
+    "options": [
+      "Přenosu informací",
+      "Opěře",
+      "Pohybu",
+      "Výživě"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "zaklady-019",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Nervová tkáň je specializovaná na:",
+    "options": [
+      "Pohyb",
+      "Tvorbu energie",
+      "Vedení vzruchů",
+      "Opěru"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "zaklady-020",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Vazivo patří mezi tkáně:",
+    "options": [
+      "Epitelové",
+      "Svalové",
+      "Nervové",
+      "Pojivové"
+    ],
+    "answer": 3
+  },
+
+  {
+    "id": "zaklady-021",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Krev je považována za:",
+    "options": [
+      "Epitel",
+      "Sval",
+      "Tekuté pojivo",
+      "Nervovou tkáň"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "zaklady-022",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Chrupavka má hlavní funkci:",
+    "options": [
+      "Tvorbu pohybu",
+      "Opěru a pružnost",
+      "Vedení vzruchů",
+      "Výživu buněk"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "zaklady-023",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Kostní tkáň slouží hlavně k:",
+    "options": [
+      "Pohybu",
+      "Opěře a ochraně",
+      "Vedení vzruchů",
+      "Sekreci"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "zaklady-024",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Organismus je tvořen:",
+    "options": [
+      "Buňkami → tkáněmi → orgány → soustavami",
+      "Orgány → buňkami → tkáněmi",
+      "Tkáněmi → buňkami → orgány",
+      "Pouze buňkami"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "zaklady-025",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Laterální rovina těla rozděluje tělo na:",
+    "options": [
+      "Horní a dolní část",
+      "Přední a zadní část",
+      "Pravou a levou část",
+      "Vnitřní a vnější"
+    ],
+    "answer": 2
+  },
+
+  {
+    "id": "zaklady-026",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Sagittální rovina těla rozděluje tělo na:",
+    "options": [
+      "Horní a dolní část",
+      "Přední a zadní část",
+      "Pravou a levou část",
+      "Vnitřní a vnější"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "zaklady-027",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Frontální rovina rozděluje tělo na:",
+    "options": [
+      "Horní a dolní část",
+      "Přední a zadní část",
+      "Pravou a levou část",
+      "Vnitřní a vnější"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "zaklady-028",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Transverzální rovina rozděluje tělo na:",
+    "options": [
+      "Přední a zadní část",
+      "Pravou a levou část",
+      "Horní a dolní část",
+      "Vnitřní a vnější"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "zaklady-029",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Supinace předloktí znamená:",
+    "options": [
+      "Dlaň dolů",
+      "Dlaň nahoru",
+      "Flexi lokte",
+      "Extenzi lokte"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "zaklady-030",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Radius se při pronaci a supinaci otáčí kolem:",
+    "options": ["Humeru", "Radia", "Ulny", "Lopatky"],
+    "answer": 2
+  },
+
+  {
+    "id": "zaklady-031",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Laterální flexe páteře je:",
+    "options": [
+      "Rotace",
+      "Předklon",
+      "Úklon do strany",
+      "Záklon"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "zaklady-032",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Termín proximální znamená:",
+    "options": [
+      "Blíže k trupu",
+      "Dále od trupu",
+      "Směrem dolů",
+      "Směrem ven"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "zaklady-033",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Termín distální znamená:",
+    "options": [
+      "Blíže k trupu",
+      "Dále od trupu",
+      "Směrem k ose",
+      "Směrem dovnitř"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "zaklady-034",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Laterální strana končetiny je:",
+    "options": [
+      "Blíže k tělu",
+      "Dále od těla",
+      "Vpředu",
+      "Vzadu"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "zaklady-035",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Mediální strana končetiny je:",
+    "options": [
+      "Dále od těla",
+      "Blíže ke střední rovině",
+      "Vpředu",
+      "Vzadu"
+    ],
+    "answer": 1
+  },
+
+  {
+    "id": "zaklady-036",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Extenze znamená:",
+    "options": [
+      "Ohyb",
+      "Natažení",
+      "Rotaci",
+      "Úklon"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "zaklady-037",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Flexe znamená:",
+    "options": [
+      "Natažení",
+      "Ohyb",
+      "Rotaci",
+      "Přitažení k ose"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "zaklady-038",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Dorzální strana ruky je:",
+    "options": [
+      "Dlaň",
+      "Hřbet ruky",
+      "Vnitřní strana",
+      "Přední strana"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "zaklady-039",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Plantární strana nohy je:",
+    "options": [
+      "Hřbet",
+      "Ploska",
+      "Kotník",
+      "Lýtko"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "zaklady-040",
+    "tag": "zaklady",
+    "type": "mcq",
+    "prompt": "Tkáně se v těle sdružují do:",
+    "options": [
+      "Buněk",
+      "Orgánů",
+      "Soustav",
+      "Svalů"
+    ],
+    "answer": 1
+  }
+]
+
+
+
+

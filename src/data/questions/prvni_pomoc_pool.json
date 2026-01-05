@@ -1,0 +1,1090 @@
+[
+  {
+    "id": "pp-001",
+    "q": "Co je hlavní cíl první pomoci podle skript?",
+    "options": {
+      "A": "Vyléčit nemocného na místě",
+      "B": "Zabránit většímu poškození zdraví a udržet základní životní funkce",
+      "C": "Vždy podat léky",
+      "D": "Vždy dopravit postiženého do nemocnice vlastním autem"
+    },
+    "correct": "B",
+    "explanation": "První pomoc je soubor úkonů, které brání zhoršení stavu a drží člověka při životě do předání ZZS."
+  },
+  {
+    "id": "pp-002",
+    "q": "Jaké je „zlaté pravidlo“ první pomoci?",
+    "options": {
+      "A": "Čím víc zásahů, tím lépe",
+      "B": "Nejlepší první pomoc je taková, při které nepřibude další zraněný",
+      "C": "Vždy začít umělým dýcháním",
+      "D": "Vždy nejdřív ošetřit ránu"
+    },
+    "correct": "B",
+    "explanation": "Bezpečí zachránce je první krok – jinak se z tebe stává další pacient."
+  },
+  {
+    "id": "pp-003",
+    "q": "Kolik času si má zachránce vzít na rychlé zhodnocení situace a rizik?",
+    "options": {
+      "A": "1–2 sekundy",
+      "B": "Přibližně 10 sekund",
+      "C": "Až 2 minuty",
+      "D": "Není potřeba vyhodnocovat, jedná se hned"
+    },
+    "correct": "B",
+    "explanation": "Ve skriptech je výslovně uvedeno, že pro zhodnocení situace obvykle stačí cca 10 s."
+  },
+  {
+    "id": "pp-004",
+    "q": "Která informace je pro operátora 155 typicky důležitá?",
+    "options": {
+      "A": "Jakou hudbu má postižený rád",
+      "B": "Kde se to stalo a kolik je raněných",
+      "C": "Jaké máš krevní testy",
+      "D": "Kolik je ti let"
+    },
+    "correct": "B",
+    "explanation": "Základ: co/kde/kdy/jak/kolik + rizika pro posádku."
+  },
+  {
+    "id": "pp-005",
+    "q": "Jak správně zhodnotíš dýchání v bezvědomí podle skript?",
+    "options": {
+      "A": "Sleduju hrudník 1 minutu",
+      "B": "Přiložím ucho k ústům, sleduju hrudník, hodnotím max 10 sekund",
+      "C": "Zjišťuju puls a podle toho usoudím dýchání",
+      "D": "Dám napít vody a čekám"
+    },
+    "correct": "B",
+    "explanation": "Kontrola dýchání nemá trvat déle než cca 10 s."
+  },
+  {
+    "id": "pp-006",
+    "q": "Co je AVPU?",
+    "options": {
+      "A": "Druh obvazu",
+      "B": "Rychlá škála hodnocení vědomí",
+      "C": "Technika fixace končetiny",
+      "D": "Typ šoku"
+    },
+    "correct": "B",
+    "explanation": "AVPU je orientační hodnocení vědomí (Alert/Voice/Pain/Unresponsive)."
+  },
+  {
+    "id": "pp-007",
+    "q": "Co znamená ABCDE v první pomoci?",
+    "options": {
+      "A": "Pořadí volání na linky",
+      "B": "Orientační postup vyšetření a řešení život ohrožujících stavů",
+      "C": "Druh znehybnění",
+      "D": "Metoda převazu"
+    },
+    "correct": "B",
+    "explanation": "ABCDE je struktura, která tě vede krok po kroku (airway, breathing, circulation, disability, exposure)."
+  },
+  {
+    "id": "pp-008",
+    "q": "Kdy se používá CABCDE místo ABCDE?",
+    "options": {
+      "A": "Když je pacient při vědomí",
+      "B": "Když je podezření na masivní krvácení – nejdřív zastavit krvácení",
+      "C": "Jen u dětí",
+      "D": "Jen při intoxikaci"
+    },
+    "correct": "B",
+    "explanation": "U masivního krvácení jde „C“ (catastrophic bleeding) před airway."
+  },
+  {
+    "id": "pp-009",
+    "q": "Co je bezvědomí podle skript?",
+    "options": {
+      "A": "Stav, kdy člověk jen spí, ale reaguje na oslovení",
+      "B": "Stav, kdy nereaguje na oslovení, dotyk ani bolestivý podnět",
+      "C": "Stav, kdy má horečku",
+      "D": "Stav, kdy kašle"
+    },
+    "correct": "B",
+    "explanation": "Bezvědomí = nereaguje na okolní podněty."
+  },
+  {
+    "id": "pp-010",
+    "q": "Proč je bezvědomí nebezpečné z hlediska dýchacích cest?",
+    "options": {
+      "A": "Protože zrychlí puls",
+      "B": "Hrozí aspirace a „zapadnutí“ kořene jazyka",
+      "C": "Protože vždy vzniká krvácení",
+      "D": "Protože vždy nastane průjem"
+    },
+    "correct": "B",
+    "explanation": "Svalová relaxace zvyšuje riziko uzávěru DC jazykem a aspirace."
+  },
+
+  {
+    "id": "pp-011",
+    "q": "Kdy zahajuješ KPR podle skript?",
+    "options": {
+      "A": "Když má pacient teplotu",
+      "B": "Když je v bezvědomí a nedýchá nebo dýchá abnormálně",
+      "C": "Když má krvácení z nosu",
+      "D": "Když má bolest břicha"
+    },
+    "correct": "B",
+    "explanation": "KPR se zahajuje při bezvědomí + nedýchá/abnormální dýchání."
+  },
+  {
+    "id": "pp-012",
+    "q": "Jaký je běžný poměr stlačení : vdechy u dospělého (pokud se dělají vdechy)?",
+    "options": {
+      "A": "15:2",
+      "B": "30:2",
+      "C": "3:1",
+      "D": "10:1"
+    },
+    "correct": "B",
+    "explanation": "Standardní schéma je 30 stlačení a 2 vdechy."
+  },
+  {
+    "id": "pp-013",
+    "q": "Jak hluboko se má stlačovat hrudník u dospělého?",
+    "options": {
+      "A": "2 cm",
+      "B": "3–4 cm",
+      "C": "Kolem 5 cm, nepřesáhnout 6 cm",
+      "D": "8–9 cm"
+    },
+    "correct": "C",
+    "explanation": "Ve skriptech: cca 5 cm, nemělo by přesáhnout 6 cm."
+  },
+  {
+    "id": "pp-014",
+    "q": "Co je doporučeno v laické první pomoci ohledně umělého dýchání?",
+    "options": {
+      "A": "Vždy dělat vdechy, jinak je KPR neúčinná",
+      "B": "Vdechy se u laiků často nedoporučují – lze dělat jen komprese",
+      "C": "Vdechy se dělají pouze u seniorů",
+      "D": "Vdechy se dělají jen u diabetiků"
+    },
+    "correct": "B",
+    "explanation": "Skripta uvádí důvody: prodleva, riziko zvracení/aspirace a nákazy; proto se často doporučí jen komprese."
+  },
+  {
+    "id": "pp-015",
+    "q": "Proč mohou být vdechy u laika problém?",
+    "options": {
+      "A": "Způsobí vždy zlomeniny",
+      "B": "Prodleva mezi kompresemi + riziko zvracení/aspirace + infekční riziko",
+      "C": "Protože snižují teplotu",
+      "D": "Protože zvyšují krevní tlak"
+    },
+    "correct": "B",
+    "explanation": "Ve skriptech jsou uvedeny tyto hlavní důvody."
+  },
+  {
+    "id": "pp-016",
+    "q": "Kolik úvodních vdechů se doporučuje u dětí před kompresemi?",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "5",
+      "D": "10"
+    },
+    "correct": "C",
+    "explanation": "U dětí se doporučuje 5 úvodních vdechů."
+  },
+  {
+    "id": "pp-017",
+    "q": "Jaký poměr kompresí:vdechů je uveden pro děti (v materiálu)?",
+    "options": {
+      "A": "30:2",
+      "B": "15:2",
+      "C": "5:1",
+      "D": "3:1"
+    },
+    "correct": "B",
+    "explanation": "U dětí ve skriptech: 15:2."
+  },
+  {
+    "id": "pp-018",
+    "q": "Jaký poměr kompresí:vdechů je uveden pro novorozence (v materiálu)?",
+    "options": {
+      "A": "30:2",
+      "B": "15:2",
+      "C": "3:1",
+      "D": "1:1"
+    },
+    "correct": "C",
+    "explanation": "Ve skriptech: u novorozenců 3:1."
+  },
+  {
+    "id": "pp-019",
+    "q": "Pro koho jsou podle skript důležité 5 úvodních vdechů (kromě dětí)?",
+    "options": {
+      "A": "Pro diabetiky",
+      "B": "Pro tonoucí",
+      "C": "Pro osoby s krvácením",
+      "D": "Pro osoby s bolestí zad"
+    },
+    "correct": "B",
+    "explanation": "U tonoucích se předpokládá respirační příčina zástavy."
+  },
+  {
+    "id": "pp-020",
+    "q": "Co je bariérová pomůcka pro minimalizaci přenosu infekce při dýchání z plic do plic?",
+    "options": {
+      "A": "Izotermická fólie",
+      "B": "Resuscitační rouška nebo maska",
+      "C": "Trojcípý šátek",
+      "D": "Tlakový obvaz"
+    },
+    "correct": "B",
+    "explanation": "Skripta uvádí resuscitační masku/roušku jako bariéru."
+  },
+
+  {
+    "id": "pp-021",
+    "q": "Jak se dělí krvácení podle typu cév?",
+    "options": {
+      "A": "Horečnaté a nehorečnaté",
+      "B": "Arteriální, venózní, kapilární",
+      "C": "Akutní a chronické",
+      "D": "Infekční a neinfekční"
+    },
+    "correct": "B",
+    "explanation": "Základní dělení: tepenné/žilní/vlásečnicové."
+  },
+  {
+    "id": "pp-022",
+    "q": "Co je v první pomoci důležitější než přesně určit typ krvácení?",
+    "options": {
+      "A": "Změřit teplotu",
+      "B": "Efektivně zabránit dalším krevním ztrátám",
+      "C": "Vyfotit ránu",
+      "D": "Podat antibiotika"
+    },
+    "correct": "B",
+    "explanation": "Skripta zdůrazňují, že jde hlavně o zastavení krvácení."
+  },
+  {
+    "id": "pp-023",
+    "q": "Jaký je klíčový rozdíl mezi vnějším a vnitřním krvácením v terénu?",
+    "options": {
+      "A": "Vnější je vždy nebezpečnější",
+      "B": "Vnitřní často nevidíme; orientujeme se podle příznaků",
+      "C": "Vnitřní jde snadno zastavit tlakem",
+      "D": "Vnější nejde odhadnout"
+    },
+    "correct": "B",
+    "explanation": "Vnitřní krvácení nemusí být vidět, pomáhají příznaky (bledost, tachykardie…)."
+  },
+  {
+    "id": "pp-024",
+    "q": "Který soubor příznaků může doprovázet významné krvácení podle skript?",
+    "options": {
+      "A": "Bledost, opocenost, tachypnoe, tachykardie, hypotenze",
+      "B": "Kašel, rýma, bolest v krku",
+      "C": "Světelná vyrážka a svědění",
+      "D": "Zvětšené uzliny"
+    },
+    "correct": "A",
+    "explanation": "Skripta uvádí typické projevy krevní ztráty/šoku."
+  },
+  {
+    "id": "pp-025",
+    "q": "Jak postupuješ, když krytí na krvácející ráně prosákne?",
+    "options": {
+      "A": "Sundám staré krytí a dám nové",
+      "B": "Přikládám další vrstvu; staré nesundávám",
+      "C": "Nechám to být, krev se zastaví sama",
+      "D": "Ránu oplachuji pod tlakem"
+    },
+    "correct": "B",
+    "explanation": "Vrstvy se neodstraňují, ale přikládají na sebe."
+  },
+  {
+    "id": "pp-026",
+    "q": "Co je tamponáda rány?",
+    "options": {
+      "A": "Omotání rány izotermickou fólií",
+      "B": "Vložení krytí přímo do rány pro zastavení krvácení",
+      "C": "Podání sladkého nápoje",
+      "D": "Zvednutí ruky nad hlavu"
+    },
+    "correct": "B",
+    "explanation": "Tamponáda = „vycpání“ rány krytím."
+  },
+  {
+    "id": "pp-027",
+    "q": "Kolik vrstev se podle skript přikládá u tlakového obvazu maximálně?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "5"
+    },
+    "correct": "C",
+    "explanation": "Ve skriptech je uvedeno maximálně 3 vrstvy."
+  },
+  {
+    "id": "pp-028",
+    "q": "Kdy zvažuješ zaškrcovadlo podle skript?",
+    "options": {
+      "A": "Hned jako první volbu",
+      "B": "Když ani po třetí vrstvě obvazu stále masivně prosakuje",
+      "C": "Jen u krvácení z nosu",
+      "D": "Jen u kapilárního krvácení"
+    },
+    "correct": "B",
+    "explanation": "Zaškrcovadlo je ve skriptech popisováno jako poslední možnost."
+  },
+  {
+    "id": "pp-029",
+    "q": "Proč může škrtidlo/zaškrcovadlo u nezaškoleného laika způsobit problém?",
+    "options": {
+      "A": "Protože nikdy nezastaví krvácení",
+      "B": "Při nedostatečném dotažení může paradoxně průtok krve zvýšit",
+      "C": "Protože vždy způsobí alergii",
+      "D": "Protože se smí dát jen na hlavu"
+    },
+    "correct": "B",
+    "explanation": "Skripta upozorňují, že špatně dotažené může situaci zhoršit."
+  },
+  {
+    "id": "pp-030",
+    "q": "Na jakých místech je zaškrcovadlo podle skript vhodnější (kvůli jedné kosti)?",
+    "options": {
+      "A": "Předloktí a bérec",
+      "B": "Stehno a paže",
+      "C": "Zápěstí a kotník",
+      "D": "Krk a hlava"
+    },
+    "correct": "B",
+    "explanation": "Ve skriptech: místo s jednou kostí (stehno/paže)."
+  },
+
+  {
+    "id": "pp-031",
+    "q": "Jak široké má být improvizované zaškrcovadlo podle skript?",
+    "options": {
+      "A": "1–2 cm",
+      "B": "3–4 cm",
+      "C": "5–8 cm",
+      "D": "10–12 cm"
+    },
+    "correct": "C",
+    "explanation": "Skripta uvádějí šířku improvizovaného škrtidla cca 5–8 cm."
+  },
+  {
+    "id": "pp-032",
+    "q": "Proč se nesmí použít provázek nebo velmi úzký materiál jako škrtidlo?",
+    "options": {
+      "A": "Protože se roztáhne",
+      "B": "Protože se zařezává do tkání",
+      "C": "Protože je příliš pružný",
+      "D": "Protože je sterilní"
+    },
+    "correct": "B",
+    "explanation": "Úzký materiál se zařezává a poškozuje tkáně."
+  },
+  {
+    "id": "pp-033",
+    "q": "Co uděláš se zabodnutým předmětem v ráně (nůž/šíp/tužka)?",
+    "options": {
+      "A": "Vytáhnu ho co nejrychleji",
+      "B": "Nechám ho na místě a zafixuju proti pohybu",
+      "C": "Zalomím ho, aby nepřekážel",
+      "D": "Opláchnu ránu vodou a zatlačím předmět dovnitř"
+    },
+    "correct": "B",
+    "explanation": "Skripta: nikdy nevytahovat; předmět může fungovat jako „špunt“."
+  },
+  {
+    "id": "pp-034",
+    "q": "Který krok je typický při poskytování první pomoci u krvácení z rány?",
+    "options": {
+      "A": "Podání tekutin na místě",
+      "B": "Tlak na ránu (ideálně přes krytí/oblečení)",
+      "C": "Vyvolání zvracení",
+      "D": "Zahřátí hlavy ledem"
+    },
+    "correct": "B",
+    "explanation": "Základ je přímý tlak a postupné vrstvení krytí."
+  },
+  {
+    "id": "pp-035",
+    "q": "Co je šok (obecně) podle skript?",
+    "options": {
+      "A": "Dočasná bolest hlavy",
+      "B": "Život ohrožující porucha oběhu s nedostatečným zásobením tkání kyslíkem",
+      "C": "Vždy jen psychická reakce",
+      "D": "Mírná alergie"
+    },
+    "correct": "B",
+    "explanation": "Šok = selhávání oběhu a tkáňová hypoxie."
+  },
+  {
+    "id": "pp-036",
+    "q": "Který typ šoku je nejčastěji způsoben masivním krvácením/dehydratací/popáleninami?",
+    "options": {
+      "A": "Kardiogenní",
+      "B": "Hypovolemický",
+      "C": "Obstrukční",
+      "D": "Septický"
+    },
+    "correct": "B",
+    "explanation": "Hypovolemický šok = ztráta objemu (tekutin/krve)."
+  },
+  {
+    "id": "pp-037",
+    "q": "Který typ šoku souvisí se selháváním srdce jako pumpy?",
+    "options": {
+      "A": "Kardiogenní",
+      "B": "Hypovolemický",
+      "C": "Distributivní",
+      "D": "Anafylaktický"
+    },
+    "correct": "A",
+    "explanation": "Kardiogenní šok = srdce nezvládá pumpovat."
+  },
+  {
+    "id": "pp-038",
+    "q": "Který typ šoku souvisí s útlakem/uzávěrem velkých cév (např. plicní embolie)?",
+    "options": {
+      "A": "Hypovolemický",
+      "B": "Kardiogenní",
+      "C": "Obstrukční",
+      "D": "Kapilární"
+    },
+    "correct": "C",
+    "explanation": "Obstrukční šok = „je objem i pumpa, ale něco blokuje průtok“."
+  },
+  {
+    "id": "pp-039",
+    "q": "Které stavy spadají ve skriptech do distribučního šoku?",
+    "options": {
+      "A": "Infarkt a myokarditida",
+      "B": "Anafylaktický a septický šok",
+      "C": "Dehydratace a krvácení",
+      "D": "Zlomeniny"
+    },
+    "correct": "B",
+    "explanation": "Distributivní: anafylaktický + septický (zvýšená propustnost cév)."
+  },
+  {
+    "id": "pp-040",
+    "q": "Které příznaky jsou pro šok typické podle skript?",
+    "options": {
+      "A": "Bledost, opocenost, hypotenze, tachykardie, chladné periferie, porucha vědomí",
+      "B": "Kašel, rýma, bolest krku",
+      "C": "Vyrážka bez dalších příznaků",
+      "D": "Jen vysoký krevní tlak"
+    },
+    "correct": "A",
+    "explanation": "Skripta uvádí typické projevy u různých typů šoku."
+  },
+
+  {
+    "id": "pp-041",
+    "q": "Co je základní krok v první pomoci u šoku (obecně) podle skript?",
+    "options": {
+      "A": "Podat hodně tekutin",
+      "B": "Postupovat dle ABCDE (u masivního krvácení CABCDE) a zajistit tepelný komfort",
+      "C": "Nechat pacienta chodit",
+      "D": "Vždy vyvolat zvracení"
+    },
+    "correct": "B",
+    "explanation": "Ve skriptech: ABCDE/CABCDE, tepelný komfort, izotermická fólie může pomoci."
+  },
+  {
+    "id": "pp-042",
+    "q": "Proč se u šoku ve skriptech nedoporučuje podávat tekutiny v terénu?",
+    "options": {
+      "A": "Protože zvyšují teplotu",
+      "B": "Riziko aspirace při zhoršení vědomí a pacient může vyžadovat anestezii (lačný)",
+      "C": "Protože vždy způsobí alergii",
+      "D": "Protože zvyšují krvácení"
+    },
+    "correct": "B",
+    "explanation": "Skripta uvádí aspiraci a také možnost operačního řešení/anestezie."
+  },
+  {
+    "id": "pp-043",
+    "q": "Která pomůcka je zmíněná pro tepelný komfort u šoku?",
+    "options": {
+      "A": "Resuscitační rouška",
+      "B": "Izotermická fólie",
+      "C": "Inhalátor",
+      "D": "Teploměr"
+    },
+    "correct": "B",
+    "explanation": "Izotermická fólie je uvedená jako dobrá pomoc pro tepelný komfort."
+  },
+  {
+    "id": "pp-044",
+    "q": "Co je anafylaktický šok podle skript?",
+    "options": {
+      "A": "Bolest břicha po jídle",
+      "B": "Silná alergická reakce s rizikem poruchy dýchání a vědomí",
+      "C": "Zlomenina končetiny",
+      "D": "Zánět slepého střeva"
+    },
+    "correct": "B",
+    "explanation": "Anafylaxe = těžká alergická reakce (otoky, hypotenze, dušnost…)."
+  },
+  {
+    "id": "pp-045",
+    "q": "Typický alergen pro anafylaxi ve skriptech je:",
+    "options": {
+      "A": "Slunce",
+      "B": "Včelí bodnutí nebo dietní chyba (ořechy/korýši…)",
+      "C": "Studený vzduch",
+      "D": "Klacek"
+    },
+    "correct": "B",
+    "explanation": "Skripta přímo uvádí včelí bodnutí a dietní chybu (ořechy/korýši…)."
+  },
+  {
+    "id": "pp-046",
+    "q": "Kam se podle skript aplikuje EpiPen (adrenalinové pero)?",
+    "options": {
+      "A": "Do žíly na předloktí",
+      "B": "Do svalu, nejčastěji do stehna",
+      "C": "Pod jazyk",
+      "D": "Do břicha"
+    },
+    "correct": "B",
+    "explanation": "Ve skriptech: intramuskulárně, typicky stehno."
+  },
+  {
+    "id": "pp-047",
+    "q": "Jak dlouho má podle skript zůstat pero při aplikaci přiložené, než ho vytáhneš?",
+    "options": {
+      "A": "Hned ho vytáhnu",
+      "B": "1 sekundu",
+      "C": "Přibližně 5 sekund",
+      "D": "30 sekund"
+    },
+    "correct": "C",
+    "explanation": "Skripta uvádí vyčkat zhruba 5 sekund."
+  },
+  {
+    "id": "pp-048",
+    "q": "Co uděláš po aplikaci EpiPenu podle skript?",
+    "options": {
+      "A": "Nevolám 155, když se zlepší",
+      "B": "Vždy volám 155, chladím místo a uklidňuju postiženého",
+      "C": "Dám ihned napít",
+      "D": "Dám postiženého do lehu na záda a zakloním hlavu bez dalšího"
+    },
+    "correct": "B",
+    "explanation": "Ve skriptech: chladit, uklidnit, vždy 155, při zhoršení ABCDE."
+  },
+  {
+    "id": "pp-049",
+    "q": "Dušnost může být způsobena:",
+    "options": {
+      "A": "Jen plicemi",
+      "B": "Jen srdcem",
+      "C": "Plícemi, oběhem, srdcem i vnějšími faktory",
+      "D": "Jen psychikou"
+    },
+    "correct": "C",
+    "explanation": "Skripta uvádí více příčin – nejen respirační."
+  },
+  {
+    "id": "pp-050",
+    "q": "Při aspiraci cizího tělesa s účinným kašlem uděláš co?",
+    "options": {
+      "A": "Ihned Heimlich",
+      "B": "5 úderů mezi lopatky",
+      "C": "Povzbuzuji ke kašli a sleduji stav",
+      "D": "Dám napít vody"
+    },
+    "correct": "C",
+    "explanation": "U účinného kašle je nejlepší kašel podporovat a hlídat zhoršení."
+  },
+
+  {
+    "id": "pp-051",
+    "q": "Kdy dává smysl 5 úderů mezi lopatky u aspirace cizího tělesa?",
+    "options": {
+      "A": "Když je kašel účinný",
+      "B": "Když je kašel neúčinný",
+      "C": "Když má postižený rýmu",
+      "D": "Když má poraněnou nohu"
+    },
+    "correct": "B",
+    "explanation": "Skripta: při neúčinném kašli 5 rázných úderů mezi lopatky."
+  },
+  {
+    "id": "pp-052",
+    "q": "Co následuje, když 5 úderů mezi lopatky nepomůže?",
+    "options": {
+      "A": "Ukončím zásah a čekám",
+      "B": "Pokračuju 5 stlačeními nadbřišku (Heimlich) a cyklus opakuju",
+      "C": "Dám postiženého do zotavovací polohy",
+      "D": "Dám napít"
+    },
+    "correct": "B",
+    "explanation": "Skripta: cyklus 5 úderů + 5 stlačení, opakovat do uvolnění nebo bezvědomí."
+  },
+  {
+    "id": "pp-053",
+    "q": "Co uděláš, když při aspiraci po opakování cyklu postižený upadá do bezvědomí?",
+    "options": {
+      "A": "Přestanu a odcházím",
+      "B": "Pokračuju KPR",
+      "C": "Dám mu napít vody",
+      "D": "Zkusím vyvolat zvracení"
+    },
+    "correct": "B",
+    "explanation": "Skripta: při bezvědomí pokračovat kardiopulmonální resuscitací."
+  },
+  {
+    "id": "pp-054",
+    "q": "Epiglotitida – typický problém je:",
+    "options": {
+      "A": "Štěkavý kašel bez dušnosti",
+      "B": "Otok hrtanové příklopky a zúžení dýchacích cest",
+      "C": "Masivní krvácení",
+      "D": "Bolest kolene"
+    },
+    "correct": "B",
+    "explanation": "Epiglotitida = zánět epiglottis → otok → zúžení DC."
+  },
+  {
+    "id": "pp-055",
+    "q": "Co je pro epiglotitidu ve skriptech typické ohledně polohy?",
+    "options": {
+      "A": "Nemocný chce ležet na zádech",
+      "B": "Nemocný se brání horizontální poloze, dušnost se v lehu zhoršuje",
+      "C": "Nemocný chce hlavou dolů",
+      "D": "Je mu jedno, jak leží"
+    },
+    "correct": "B",
+    "explanation": "Skripta: brání se horizontální poloze, dušnost se zhoršuje."
+  },
+  {
+    "id": "pp-056",
+    "q": "Laryngitida u dětí – typický kašel je:",
+    "options": {
+      "A": "Vlhký produktivní",
+      "B": "Suchý dráždivý „štěkavý“",
+      "C": "Bez kašle",
+      "D": "Krvavý"
+    },
+    "correct": "B",
+    "explanation": "Skripta popisují štěkavý kašel jako typický."
+  },
+  {
+    "id": "pp-057",
+    "q": "První pomoc u laryngitidy ve skriptech zahrnuje:",
+    "options": {
+      "A": "Inhalaci chladného vzduchu (okno/lednice)",
+      "B": "Horkou koupel",
+      "C": "Vyvolání zvracení",
+      "D": "Tlakový obvaz"
+    },
+    "correct": "A",
+    "explanation": "Skripta: chladný vzduch může zklidnit štěkavý kašel."
+  },
+  {
+    "id": "pp-058",
+    "q": "Jaká poloha je u epiglotitidy/laryngitidy ve skriptech preferovaná?",
+    "options": {
+      "A": "Leh na zádech",
+      "B": "Polosed",
+      "C": "Hlava dolů",
+      "D": "Stoj na jedné noze"
+    },
+    "correct": "B",
+    "explanation": "Ve skriptech je preferován polosed."
+  },
+  {
+    "id": "pp-059",
+    "q": "Tonutí je ve skriptech definováno jako:",
+    "options": {
+      "A": "Zástava srdce po infarktu",
+      "B": "Bezdeší z důvodu aspirace (vdechnutí) tekutiny",
+      "C": "Alergická reakce",
+      "D": "Poranění hlavy"
+    },
+    "correct": "B",
+    "explanation": "Tonutí = porucha dýchání kvůli tekutině v DC."
+  },
+  {
+    "id": "pp-060",
+    "q": "Co je důležité při záchraně tonoucího z hlediska bezpečnosti zachránce?",
+    "options": {
+      "A": "Vždy skočit do vody bez rozmýšlení",
+      "B": "Nepřeceňovat síly, vyhodnotit situaci, volat záchranné složky",
+      "C": "Plavat co nejrychleji bez pomůcek",
+      "D": "Nevolat pomoc, aby nevznikla panika"
+    },
+    "correct": "B",
+    "explanation": "Skripta zdůrazňují bezpečí zachránce a riziko, že tonoucí stáhne zachránce."
+  },
+
+  {
+    "id": "pp-061",
+    "q": "Jaký je podle skript preferovaný způsob pomoci tonoucímu před vstupem do vody?",
+    "options": {
+      "A": "Podat mu sladký nápoj",
+      "B": "Poskytnout plovací předmět (kruh/kláda/lano/tyč)",
+      "C": "Tlakový obvaz",
+      "D": "Zabodnout klacek do dna"
+    },
+    "correct": "B",
+    "explanation": "Skripta: nejdřív plovací předměty, nepřeceňovat síly."
+  },
+  {
+    "id": "pp-062",
+    "q": "Co uděláš, když vytáhneš tonoucího z vody v bezvědomí a bezdeší (podle skript)?",
+    "options": {
+      "A": "Nechám ho ležet a čekám",
+      "B": "Na bok, vyčistit dutinu ústní, zkontrolovat dýchání; při bezdeší 5 úvodních vdechů a KPR",
+      "C": "Dám mu napít",
+      "D": "Zahřeju ho horkou vodou"
+    },
+    "correct": "B",
+    "explanation": "Skripta popisují tento postup včetně 5 úvodních vdechů."
+  },
+  {
+    "id": "pp-063",
+    "q": "K poranění kostí/svalů/kloubů v terénu: co je základní pravidlo?",
+    "options": {
+      "A": "Vždy přesně určit diagnózu",
+      "B": "Počítat s nejhorší variantou",
+      "C": "Vždy repozice (narovnání)",
+      "D": "Vždy masáž"
+    },
+    "correct": "B",
+    "explanation": "Skripta: v terénu nelze přesně určit typ poranění → počítat s nejhorším."
+  },
+  {
+    "id": "pp-064",
+    "q": "Co se u poranění končetiny ve skriptech nedoporučuje?",
+    "options": {
+      "A": "Fixace",
+      "B": "Repozice (navrácení do původního stavu)",
+      "C": "Trojcípý šátek",
+      "D": "Sterilní krytí"
+    },
+    "correct": "B",
+    "explanation": "Repozice je bolestivá a může uškodit; v první pomoci se obvykle nedělá."
+  },
+  {
+    "id": "pp-065",
+    "q": "Jak se ve skriptech popisuje správná fixace končetiny?",
+    "options": {
+      "A": "Znehybnit jen místo bolesti",
+      "B": "Znehybnit mezi dvěma nejbližšími klouby (nad a pod poraněním)",
+      "C": "Fixovat pouze prsty",
+      "D": "Fixace není nikdy potřeba"
+    },
+    "correct": "B",
+    "explanation": "Fixace typicky zahrnuje kloub nad a kloub pod poraněním."
+  },
+  {
+    "id": "pp-066",
+    "q": "K čemu se ve skriptech zmiňuje trojcípý šátek?",
+    "options": {
+      "A": "K podání tekutin",
+      "B": "K fixaci poraněné horní končetiny",
+      "C": "K vyvolání zvracení",
+      "D": "K měření tlaku"
+    },
+    "correct": "B",
+    "explanation": "Trojcípý šátek je popsaný jako pomůcka k zavěšení HK."
+  },
+  {
+    "id": "pp-067",
+    "q": "Jak má být podle skript paže v trojcípém šátku?",
+    "options": {
+      "A": "Volně visí podél těla bez opory",
+      "B": "Ve visu v pravém úhlu; zápěstí nemá přesahovat konec šátku",
+      "C": "Natažená dopředu",
+      "D": "Nad hlavou"
+    },
+    "correct": "B",
+    "explanation": "Skripta popisují polohu paže a zápěstí v šátku."
+  },
+  {
+    "id": "pp-068",
+    "q": "U otevřené zlomeniny se ve skriptech zdůrazňuje:",
+    "options": {
+      "A": "Zatlačit úlomky dovnitř",
+      "B": "Nikdy nezatlačovat úlomky dovnitř; sterilně krýt",
+      "C": "Masírovat okolí",
+      "D": "Použít led přímo do rány"
+    },
+    "correct": "B",
+    "explanation": "Úlomky se nezatlačují, rána se kryje sterilně."
+  },
+  {
+    "id": "pp-069",
+    "q": "Co může být u otevřené zlomeniny s masivním krvácením podle skript kontraproduktivní?",
+    "options": {
+      "A": "Sterilní krytí",
+      "B": "Tlakový obvaz (může zatlačit úlomek)",
+      "C": "Fixace proti pohybu",
+      "D": "Volání 155"
+    },
+    "correct": "B",
+    "explanation": "Skripta uvádí, že tlakový obvaz může zatlačit úlomek a zhoršit situaci."
+  },
+  {
+    "id": "pp-070",
+    "q": "Co je podle skript typické pro začátek anafylaxe (příznaky)?",
+    "options": {
+      "A": "Jen bolest kloubů",
+      "B": "Otoky (obličej/jazyk), zhoršené dýchání, snížení tlaku, porucha vědomí",
+      "C": "Jen teplota 39",
+      "D": "Jen průjem bez dalších znaků"
+    },
+    "correct": "B",
+    "explanation": "Ve skriptech: otoky, hypotenze, dýchací obtíže, porucha vědomí."
+  },
+
+  {
+    "id": "pp-071",
+    "q": "Který výrok je správně o „topícím se“ podle skript?",
+    "options": {
+      "A": "Většinou divoce mává a křičí",
+      "B": "Často nemává a nekřičí, okolí si ho nemusí všimnout",
+      "C": "Vždy má křeče",
+      "D": "Vždy je při vědomí"
+    },
+    "correct": "B",
+    "explanation": "Skripta uvádějí, že topící se často není nápadný."
+  },
+  {
+    "id": "pp-072",
+    "q": "Jak se v první pomoci chováš k poraněné končetině, která je pro postiženého velmi bolestivá?",
+    "options": {
+      "A": "Snažím se ji násilím narovnat",
+      "B": "Můžu ji nechat v poloze, kterou postižený snese; fixace není vždy pravidlo",
+      "C": "Nechám ho běhat, aby se rozhýbal",
+      "D": "Ošetřím jen kůži a nic dál"
+    },
+    "correct": "B",
+    "explanation": "Skripta připouští, že kvůli bolesti může zůstat končetina v dané poloze; důležitá je šetrnost."
+  },
+  {
+    "id": "pp-073",
+    "q": "Co je u krvácení se zabodnutým předmětem správný postup?",
+    "options": {
+      "A": "Předmět vytáhnu a stlačím ránu",
+      "B": "Předmět nevytahuju, fixuju ho, aby se nehýbal",
+      "C": "Předmět roztáčím, aby povolil",
+      "D": "Zaliju to alkoholem"
+    },
+    "correct": "B",
+    "explanation": "Skripta: nevytahovat, fixovat proti sekundárnímu pohybu."
+  },
+  {
+    "id": "pp-074",
+    "q": "Co je typické pro „masivní“ krvácení v rámci priority CABCDE?",
+    "options": {
+      "A": "Řeším ho až úplně na konci",
+      "B": "Je to priorita před airway, protože rychle zabíjí",
+      "C": "Je to jen kosmetický problém",
+      "D": "Řeší se jen dezinfekcí"
+    },
+    "correct": "B",
+    "explanation": "Masivní krvácení je bezprostředně život ohrožující → priorita."
+  },
+  {
+    "id": "pp-075",
+    "q": "Který postup je správně při improvizovaném škrtidle (podle skript)?",
+    "options": {
+      "A": "Použiju provázek a co nejvíc utáhnu",
+      "B": "Podložím, udělám smyčku, vložím tužku a točím do zástavy krvácení",
+      "C": "Omotám kolem krku",
+      "D": "Dám škrtidlo jen přes ránu"
+    },
+    "correct": "B",
+    "explanation": "Skripta popisují použití širokého materiálu + „twist“ (tužka) do zástavy krvácení."
+  },
+  {
+    "id": "pp-076",
+    "q": "Co si máš u zaškrcovadla poznamenat podle skript?",
+    "options": {
+      "A": "Barvu oblečení pacienta",
+      "B": "Čas zaškrcení",
+      "C": "Kolik je hodin u tebe doma",
+      "D": "Krevní skupinu zachránce"
+    },
+    "correct": "B",
+    "explanation": "Skripta uvádí, že čas zaškrcení je důležitá informace pro záchranný tým."
+  },
+  {
+    "id": "pp-077",
+    "q": "Který výrok o transportu u šoku odpovídá skriptům?",
+    "options": {
+      "A": "Vždy převážím sám, je to rychlejší",
+      "B": "Transport volím jen když hrozí nebezpečí na místě nebo zlepšuju podmínky pro pomoc",
+      "C": "Nikdy nevolám 155",
+      "D": "Při šoku vždy nechám pacienta chodit"
+    },
+    "correct": "B",
+    "explanation": "Skripta: transport jen když hrozí nebezpečí nebo je potřeba zlepšit podmínky pro pomoc."
+  },
+  {
+    "id": "pp-078",
+    "q": "Který krok je u bezvědomí klíčový pro snížení rizika aspirace?",
+    "options": {
+      "A": "Podat tekutiny",
+      "B": "Zajištění průchodnosti dýchacích cest a vhodná poloha (např. zotavovací, pokud dýchá)",
+      "C": "Zvednout postiženému nohy vždy",
+      "D": "Přitlačit bradu k hrudníku"
+    },
+    "correct": "B",
+    "explanation": "Bezvědomí zvyšuje riziko aspirace – řeší se airway a bezpečnou polohou."
+  },
+  {
+    "id": "pp-079",
+    "q": "Co je podle skript častá příčina intoxikace?",
+    "options": {
+      "A": "Jen voda",
+      "B": "Požití léků, alkoholu nebo kombinace; také drogy, houby, potraviny, chemikálie",
+      "C": "Jen sport",
+      "D": "Jen slunce"
+    },
+    "correct": "B",
+    "explanation": "Skripta uvádí léky/alkohol a další zdroje toxických látek."
+  },
+  {
+    "id": "pp-080",
+    "q": "Jakým způsobem se mohou toxické látky dostat do těla podle skript?",
+    "options": {
+      "A": "Jen polknutím",
+      "B": "Polknutím, vdechnutím, kůží nebo vpichem",
+      "C": "Jen dotykem vlasů",
+      "D": "Jen přes oči"
+    },
+    "correct": "B",
+    "explanation": "Skripta uvádí tyto čtyři hlavní cesty."
+  },
+
+  {
+    "id": "pp-081",
+    "q": "Co je správný obecný cíl první pomoci u intoxikace?",
+    "options": {
+      "A": "Zvýšit vstřebávání",
+      "B": "Zamezit dalšímu vstřebávání a přivolat pomoc podle potřeby",
+      "C": "Vždy podat jídlo",
+      "D": "Vždy podávat tekutiny"
+    },
+    "correct": "B",
+    "explanation": "Základ je zabránit dalšímu vstřebávání a řešit ABCDE při poruše vědomí."
+  },
+  {
+    "id": "pp-082",
+    "q": "Co uděláš, když jde o otravu plyny/chemikáliemi v uzavřené místnosti?",
+    "options": {
+      "A": "Zůstanu uvnitř a hledám zdroj",
+      "B": "Zamezím vstřebávání: vynesu postiženého ven / vyvětrám, pokud nejde přenést",
+      "C": "Dám napít",
+      "D": "Zahřeju místnost"
+    },
+    "correct": "B",
+    "explanation": "Skripta: vynést z místnosti nebo alespoň vyvětrat – hlavně bezpečně."
+  },
+  {
+    "id": "pp-083",
+    "q": "Který postup u intoxikace je nejbezpečnější jako obecná zásada (vzhledem k chybě ve skriptech)?",
+    "options": {
+      "A": "Rutinně vyvolávat zvracení prsty nebo solí",
+      "B": "Nezvyšovat riziko aspirace; při vážných stavech volat 155 a řídit se operátorem",
+      "C": "Dát alkohol, aby se „zředilo“",
+      "D": "Donutit postiženého běhat"
+    },
+    "correct": "B",
+    "explanation": "Vyvolávání zvracení je rizikové (aspirace). Drž se bezpečného postupu a instrukcí ZZS."
+  },
+  {
+    "id": "pp-084",
+    "q": "Který výrok o umělém dýchání (z plic do plic) je podle skript správný?",
+    "options": {
+      "A": "Vdech má být krátký a prudký",
+      "B": "Vdech má být plynulý asi 1 sekundu, kontroluje se zvednutí hrudníku",
+      "C": "Foukám co nejdéle",
+      "D": "Není potřeba kontrolovat hrudník"
+    },
+    "correct": "B",
+    "explanation": "Skripta: plynulý výdech ~1 s, kontrola zvedání hrudníku."
+  },
+  {
+    "id": "pp-085",
+    "q": "Co znamená „abnormální dýchání“ v kontextu zahájení KPR (prakticky)?",
+    "options": {
+      "A": "Dýchá rychle po běhu",
+      "B": "Gasping / nepravidelné lapání po dechu – nepočítá se jako normální dýchání",
+      "C": "Kašle",
+      "D": "Kýchá"
+    },
+    "correct": "B",
+    "explanation": "Abnormální lapavé dýchání se bere jako nedostatečné → postup jako při nedýchání."
+  },
+  {
+    "id": "pp-086",
+    "q": "Která možnost odpovídá postupu při dušnosti jako „úvodní rámec“ ve skriptech?",
+    "options": {
+      "A": "Ignorovat, pokud není bolest",
+      "B": "Vždy myslet na závažnost, uklidnit, sledovat, volat 155 dle stavu, při zhoršení ABCDE",
+      "C": "Dát najíst",
+      "D": "Vždy položit na záda"
+    },
+    "correct": "B",
+    "explanation": "Skripta u dušnosti opakovaně zdůrazňují volání 155 a ABCDE při zhoršení."
+  },
+  {
+    "id": "pp-087",
+    "q": "U poranění kostí/svalů/kloubů: které projevy jsou ve skriptech uvedeny jako časté?",
+    "options": {
+      "A": "Bolest, otok, nefyziologická poloha, „lupnutí“",
+      "B": "Kašel a rýma",
+      "C": "Zvětšené mandle",
+      "D": "Ztráta sluchu"
+    },
+    "correct": "A",
+    "explanation": "Skripta uvádí bolest, otok, nefyziologickou polohu a někdy „lupnutí“."
+  },
+  {
+    "id": "pp-088",
+    "q": "Co je při poskytování první pomoci opakovaně zdůrazněno ohledně ochranných pomůcek?",
+    "options": {
+      "A": "Nepoužívat žádné, zdržuje to",
+      "B": "Používat ochranné pomůcky při stavění krvácení a obecně",
+      "C": "Jen rukavice u dětí",
+      "D": "Jen respirátor u zlomenin"
+    },
+    "correct": "B",
+    "explanation": "Skripta zmiňují ochranu zachránce (např. při krvácení)."
+  },
+  {
+    "id": "pp-089",
+    "q": "Který výrok je správně o vnitřním krvácení (prakticky v první pomoci)?",
+    "options": {
+      "A": "Vždy je vidět",
+      "B": "Často není vidět; první pomoc je omezená a zásadní je rychlý transport / ZZS",
+      "C": "Zastavím ho tlakovým obvazem",
+      "D": "Řeší se přiložením ledové vody"
+    },
+    "correct": "B",
+    "explanation": "Skripta: vnitřní krvácení se často neodhalí, pomoc je omezená, důležitý je transport/ZZS."
+  },
+  {
+    "id": "pp-090",
+    "q": "Která kombinace kroků nejlépe vystihuje „správné nastavení hlavy“ při kontrole dýchání?",
+    "options": {
+      "A": "Předklon hlavy, brada k hrudníku",
+      "B": "Záklon hlavy pro uvolnění dýchacích cest + krátká kontrola dýchání",
+      "C": "Zakrytí úst rukou",
+      "D": "Stlačení břicha"
+    },
+    "correct": "B",
+    "explanation": "Skripta popisují záklon hlavy jako klíčový pro zhodnocení/obnovení dýchání."
+  }
+]

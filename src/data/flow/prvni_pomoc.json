@@ -1,0 +1,82 @@
+{
+  "moduleId": "prvni_pomoc",
+  "title": "První pomoc",
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start",
+      "items": [
+        { "path": "/prvni_pomoc/uvod", "label": "Úvod: co je první pomoc" }
+      ]
+    },
+    {
+      "id": "postup",
+      "title": "Postup a orientační vyšetření",
+      "items": [
+        { "path": "/prvni_pomoc/postup_bezpeci_155", "label": "Bezpečí a volání 155" },
+        { "path": "/prvni_pomoc/orientacni_vysetreni_avpu", "label": "Vědomí (AVPU) a rychlé zhodnocení" },
+        { "path": "/prvni_pomoc/abcde", "label": "ABCDE: co kontroluju a proč" },
+        { "path": "/prvni_pomoc/zotavovaci_poloha", "label": "Zotavovací poloha" }
+      ]
+    },
+    {
+      "id": "kpr",
+      "title": "Resuscitace (KPR)",
+      "items": [
+        { "path": "/prvni_pomoc/kpr_kdy_zacit_kdy_ne", "label": "KPR: kdy začít a kdy ne" },
+        { "path": "/prvni_pomoc/kpr_airway", "label": "KPR: zprůchodnění dýchacích cest" },
+        { "path": "/prvni_pomoc/kpr_compressions", "label": "KPR: komprese hrudníku" },
+        { "path": "/prvni_pomoc/kpr_tahak", "label": "KPR: tahák na 1 stránku" }
+      ]
+    },
+    {
+      "id": "krvaceni_sok",
+      "title": "Krvácení, bezvědomí, šok",
+      "items": [
+        { "path": "/prvni_pomoc/krvaceni_typy", "label": "Krvácení: typy a příznaky" },
+        { "path": "/prvni_pomoc/krvaceni_zastaveni", "label": "Krvácení: jak zastavit + fixace předmětu" },
+        { "path": "/prvni_pomoc/bezvedomi", "label": "Bezvědomí" },
+        { "path": "/prvni_pomoc/sok_prehled", "label": "Šok: přehled a příznaky" },
+        { "path": "/prvni_pomoc/sok_prvni_pomoc", "label": "Šok: první pomoc" }
+      ]
+    },
+    {
+      "id": "urazy_zevni",
+      "title": "Úrazy a zevní příčiny",
+      "items": [
+        { "path": "/prvni_pomoc/urazy_pohybovy_aparat", "label": "Úrazy pohybového aparátu (kosti, klouby, svaly)" },
+        { "path": "/prvni_pomoc/tonuti", "label": "Tonutí" },
+        { "path": "/prvni_pomoc/intoxikace", "label": "Intoxikace" },
+        { "path": "/prvni_pomoc/poraneni_teplem", "label": "Poranění teplem" },
+        { "path": "/prvni_pomoc/poraneni_chladem", "label": "Poranění chladem" },
+        { "path": "/prvni_pomoc/poraneni_casti_tela", "label": "Poranění částí těla (hlava/hrudník/břicho/končetiny)" }
+      ]
+    },
+    {
+      "id": "akutni",
+      "title": "Akutní stavy",
+      "items": [
+        { "path": "/prvni_pomoc/akutni_stavy_uvod", "label": "Akutní stavy: úvod (kdy vždy volat 155)" },
+        { "path": "/prvni_pomoc/infarkt", "label": "Infarkt myokardu" },
+        { "path": "/prvni_pomoc/cmp_fast", "label": "CMP a FAST" },
+        { "path": "/prvni_pomoc/dusnost_aspirace", "label": "Dušnost: aspirace a dušení" },
+        { "path": "/prvni_pomoc/dusnost_anafylaxe_epipen", "label": "Dušnost: anafylaxe a EpiPen" },
+        { "path": "/prvni_pomoc/dusnost_astma", "label": "Dušnost: astma (inhalátor)" },
+        { "path": "/prvni_pomoc/dusnost_laryngitida_epiglotitida", "label": "Dušnost: laryngitida vs epiglotitida" },
+        { "path": "/prvni_pomoc/diabetes", "label": "Diabetes: hypo vs hyper" },
+        { "path": "/prvni_pomoc/krece", "label": "Křeče" },
+        { "path": "/prvni_pomoc/nahle_prihody_brisni", "label": "Náhlé příhody břišní" }
+      ]
+    },
+
+    {
+  "id": "test",
+  "title": "Test",
+  "items": [
+    { "path": "/prvni_pomoc/test_prvni_pomoc", "label": "Test – První pomoc" }
+  ]
+}
+
+    
+  ]
+}

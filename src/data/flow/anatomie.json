@@ -1,0 +1,91 @@
+{
+  "moduleId": "anatomie",
+  "title": "Anatomie",
+  "sections": [
+    {
+      "id": "nazvoslovi",
+      "title": "Názvosloví",
+      "items": [
+        { "path": "/anatomie/nazvoslovi/roviny_tela", "label": "Základní roviny těla" },
+        { "path": "/anatomie/nazvoslovi/smery", "label": "Základní směry při popisu těla" },
+        { "path": "/anatomie/nazvoslovi/pohyby_v_kloubech", "label": "Základní pohyby v kloubech" },
+        { "path": "/anatomie/nazvoslovi/orientacni_cary_hrudniku", "label": "Orientační čáry na hrudníku" }
+      ]
+    },
+    {
+      "id": "bunka",
+      "title": "Buňka a tkáně",
+      "items": [
+        { "path": "/anatomie/bunka/bunka", "label": "Buňka" },
+        { "path": "/anatomie/bunka/tkane", "label": "Tkáně" }
+      ]
+    },
+    {
+      "id": "kosti",
+      "title": "Kosti",
+      "items": [
+        { "path": "/anatomie/kosti/stavba_kosti", "label": "Stavba kosti" },
+        { "path": "/anatomie/kosti/deleni_dle_tvaru", "label": "Dělení kostí dle tvaru" },
+        { "path": "/anatomie/kosti/vyvoj_a_osifikace", "label": "Vznik a vývoj (osifikace)" },
+        { "path": "/anatomie/kosti/funkce", "label": "Funkce kostí" },
+        { "path": "/anatomie/kosti/hrudnik", "label": "Hrudník" },
+        { "path": "/anatomie/kosti/lebka_popis", "label": "Lebka – popis" },
+        { "path": "/anatomie/kosti/lebka_obrazek", "label": "Lebka – obrázek" },
+        { "path": "/anatomie/kosti/pater", "label": "Páteř" },
+        { "path": "/anatomie/kosti/horni_koncetina", "label": "Kosti horní končetiny" },
+        { "path": "/anatomie/kosti/dolni_koncetina", "label": "Kosti dolní končetiny" }
+      ]
+    },
+    {
+      "id": "spojeni",
+      "title": "Spojení kostí a klouby",
+      "items": [
+        { "path": "/anatomie/spojeni/spojeni_obecne", "label": "Spojení – úvod" },
+        { "path": "/anatomie/spojeni/spojeni_plynule_a_dotykem", "label": "Plynulé × dotykem" },
+        { "path": "/anatomie/spojeni/spojeni_pater", "label": "Spojení na páteři" },
+        { "path": "/anatomie/spojeni/spojeni_zeber", "label": "Spojení žeber" },
+        { "path": "/anatomie/spojeni/klouby_horni_koncetiny", "label": "Klouby horní končetiny" },
+        { "path": "/anatomie/spojeni/klouby_dolni_koncetiny", "label": "Klouby dolní končetiny" }
+      ]
+    },
+    {
+      "id": "svaly",
+      "title": "Svaly",
+      "items": [
+        { "path": "/anatomie/svaly/uvod", "label": "Úvod" },
+        { "path": "/anatomie/svaly/pripojeni_svalu", "label": "Připojení svalu" },
+        { "path": "/anatomie/svaly/vlastnosti_a_kontrakce", "label": "Vlastnosti a kontrakce" },
+        { "path": "/anatomie/svaly/druhy_svalu", "label": "Druhy svalů" },
+        { "path": "/anatomie/svaly/organizace_svalu", "label": "Organizace svalů" },
+        { "path": "/anatomie/svaly/druhy_vlaken", "label": "Druhy vláken" },
+        { "path": "/anatomie/svaly/motoricka_jednotka", "label": "Motorická jednotka" },
+        { "path": "/anatomie/svaly/funkcni_casti_a_spoluprace", "label": "Funkční části a spolupráce" },
+        { "path": "/anatomie/svaly/zadove", "label": "Zádové svaly" },
+        { "path": "/anatomie/svaly/zadove_povrchove", "label": "Svaly zad - povrchové a mezivrstvy" },
+        { "path": "/anatomie/svaly/zvykaci", "label": "Svaly hlavy - žvýkací" },
+        { "path": "/anatomie/svaly/mimicke", "label": "Svaly hlavy - mimické" },
+        { "path": "/anatomie/svaly/pareza", "label": "Svaly hlavy - paréza" },
+        { "path": "/anatomie/svaly/krk", "label": "Svaly krku" },
+        { "path": "/anatomie/svaly/svaly_hrudniku_vlastni", "label": "Svaly hrudníku - vlastní" },
+        { "path": "/anatomie/svaly/svaly_hrudniku_koncetinove", "label": "Svaly hrudníku - končetinové v oblasti hrudníku" },
+        { "path": "/anatomie/svaly/svaly_panvniho_dna", "label": "Svaly dna pánevního" },
+        { "path": "/anatomie/svaly/svaly_bricha", "label": "Svaly břicha" },
+        { "path": "/anatomie/svaly/svaly_ramene", "label": "Svaly ramene" },
+        { "path": "/anatomie/svaly/svaly_paze", "label": "Svaly paže" },
+        { "path": "/anatomie/svaly/svaly_predlokti", "label": "Svaly předloktí" },
+        { "path": "/anatomie/svaly/ruky", "label": "Svaly ruky" },
+        { "path": "/anatomie/svaly/svaly_kycelniho_kloubu", "label": "Svaly kyčelního kloubu" },
+        { "path": "/anatomie/svaly/svaly_stehna", "label": "Svaly stehna" },
+        { "path": "/anatomie/svaly/svaly_berce", "label": "Svaly berce" },
+        { "path": "/anatomie/svaly/svaly_nohy", "label": "Svaly nohy" }
+      ]
+    },
+    {
+      "id": "test",
+      "title": "Test",
+      "items": [
+        { "path": "/anatomie/test/test_anatomie", "label": "Test – Anatomie" }
+      ]
+    }
+  ]
+}
